@@ -1,0 +1,16 @@
+html {background-color: #1a1a1a}
+.expenses {
+    padding: 1rem;
+    background-color:rgb(31, 31, 31);
+    margin: 2rem auto;
+    width: 50rem;
+    max-width: 95%;
+  }
+
+.no-expenses {
+    text-align: center;
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-top: 1rem;
+}
